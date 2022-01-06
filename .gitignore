@@ -1,0 +1,16 @@
+*.cproject
+*.project
+*.o
+*.elf
+*.d
+*.conf
+*.map
+*.bin
+*.settings
+*.ld
+*.a
+*.credentials.h
+*sdkconfig*
+*ldgen_libraries
+build/*
+/cmake-build-debug/
